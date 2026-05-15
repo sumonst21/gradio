@@ -15,11 +15,11 @@
 		"@types/katex": "^0.16.0",
 		"@types/marked": "^5.0.0",
 		"@types/prismjs": "1.26.0",
-		"katex": "^0.16.7",
+		"katex": "^0.16.21",
 		"marked": "^5.0.1",
 		"marked-highlight": "^2.0.1",
-		"prismjs": "1.29.0",
-		"dompurify": "^3.0.3",
+		"prismjs": "1.30.0",
+		"dompurify": "^3.4.0",
 		"@types/dompurify": "^3.0.2"
 	}
 }
